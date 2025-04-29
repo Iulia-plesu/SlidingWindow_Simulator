@@ -1,5 +1,4 @@
-adauga in acest readme.md running the script and use cases:
-# SlidingWindow_Simulator
+# Selective Repeat Protocol Simulation
 
 ## Overview
 
@@ -25,9 +24,9 @@ The purpose of this project is to demonstrate how the Selective Repeat protocol 
 - Python 3.7 or higher
 - No external libraries are required; only Python's built-in `random` and `time` modules are used.
 
-### Installation
+### Installation & Running
 
-Clone the repository:
+Clone and run the repository:
 
 ```bash
 git clone https://github.com/yourusername/SlidingWindow_Simulator.git
